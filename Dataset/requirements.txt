@@ -1,0 +1,13 @@
+fathomnet==0.5.2
+imageio==2.22.4
+imgaug==0.4.0
+matplotlib==3.6.3
+numpy==1.21.5
+opencv_python_headless==4.6.0.66
+pandas==1.5.3
+pascal_voc_writer==0.1.4
+Pillow==9.4.0
+plotly==5.11.0
+requests==2.25.1
+torch==1.13.1
+tqdm==4.64.1
